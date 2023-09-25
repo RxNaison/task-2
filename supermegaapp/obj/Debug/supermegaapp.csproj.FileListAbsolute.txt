@@ -1,0 +1,8 @@
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\bin\Debug\supermegaapp.exe.config
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\bin\Debug\supermegaapp.exe
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\bin\Debug\supermegaapp.pdb
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\obj\Debug\supermegaapp.csproj.AssemblyReference.cache
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\obj\Debug\supermegaapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\obj\Debug\supermegaapp.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\obj\Debug\supermegaapp.exe
+C:\Users\nata\source\repos\supermegaapp\supermegaapp\obj\Debug\supermegaapp.pdb
